@@ -3,7 +3,7 @@
 * 👋 Hi I'm karinca, I currently know Python & Javascript for develop something 🚀. 
 
 ![karincaDev's Github Stats](https://github-readme-stats.vercel.app/api?username=CigolatliKarinca&theme=dark&show_icons=true)
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karincaDev&theme=react&layout=compact" />
+<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karincaDev&theme=dark&layout=compact" />
 
 ### About
 
