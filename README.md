@@ -2,7 +2,7 @@
 
 👋 Hi I'm karinca, I currently know Python & Javascript for develop something 🚀. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CigolatliKarinca&theme=dark&show_icons=true)
+![karincaDev's Github Stats](https://github-readme-stats.vercel.app/api?username=CigolatliKarinca&theme=dark&show_icons=true)
 
 ### About
 
