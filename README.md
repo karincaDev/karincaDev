@@ -1,3 +1,5 @@
+![](https://api.visitorbadge.io/api/VisitorHit?user=karincaDevf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 ###  :man_technologist:  [karincaDev / aka. Shimmy](https://github.com/karincaDev)
 
 * 👋 Hi I'm karinca, I currently know Python & Javascript for develop something 🚀. 
