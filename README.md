@@ -1,4 +1,4 @@
-###  :man_technologist:  [karincaDev / aka. Shimmy](https://github.com/CigolatliKarinca)
+###  :man_technologist:  [karincaDev / aka. Shimmy](https://github.com/karincaDev)
 
 👋 Hi I'm karinca, I currently know Python & Javascript for develop something 🚀. 
 
