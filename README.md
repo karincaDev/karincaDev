@@ -2,7 +2,7 @@
 
 * 👋 Hi I'm karinca, I currently love develop something with python & javascript 🚀. 
 
-![karincaDev's Github Stats](https://github-readme-stats.vercel.app/api?username=karincaDev&theme=dark&compact=dark&show_icons=true)
+![karincaDev's Github Stats](https://github-readme-stats.vercel.app/api?username=karincaDev&theme=dark&compact=default&show_icons=true)
 
 ### About
 
