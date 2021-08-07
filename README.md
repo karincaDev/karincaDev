@@ -1,6 +1,6 @@
 ###  :man_technologist:  [karincaDev / aka. Shimmy](https://github.com/karincaDev)
 
-* 👋 Hi I'm karinca, I currently know Python & Javascript for develop something 🚀. 
+* 👋 Hi I'm karinca, I currently love develop something with python & javascript 🚀. 
 
 ![karincaDev's Github Stats](https://github-readme-stats.vercel.app/api?username=karincaDev&theme=dark&compact=dark&show_icons=true)
 
