@@ -7,7 +7,7 @@
 ### About
 
 -  **Learning :** HTML5 :zap: | CSS3 :fire:    
--  **Top Languages & Tools :** JavaScript, Python, Markdown
+-  **Top Languages & Tools :** JavaScript, Python, Markdown, Node.js
 -  **Hobbies :** Football & Music :headphones:
 -  **Status :** For hire 💼
 -  **Contact Me :** [karincaDev](mailto:shimmyuwu03@gmail.com) / [karinca#0001](https://discord.gg/pEVS4A8vTe)
