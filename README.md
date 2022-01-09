@@ -1,6 +1,6 @@
 ###  :man_technologist:  [karincaDev / aka. Shimmy](https://github.com/karincaDev)
 
-* 👋 Hi I'm karinca, I currently love develop something with python & javascript 🚀. 
+* 👋 Hi I'm karinca, I currently love develop something with python & javascript 🚀.
 
 ![karincaDev's Github Stats](https://github-readme-stats.vercel.app/api?username=karincaDev&theme=dark&compact=default&show_icons=true)
 
@@ -9,7 +9,7 @@
 -  **Learning :** HTML5 :zap: | CSS3 :fire:    
 -  **Top Languages & Tools :** JavaScript, Python, Markdown, Node.js
 -  **Hobbies :** Football & Music :headphones:
--  **Status :** For hire 💼
+-  **Status :** For Hire (I can code something...^)
 -  **Contact Me :** [karincaDev](mailto:shimmyuwu03@gmail.com) / ['xel#7228](https://discord.gg/youtuber)
 
 
