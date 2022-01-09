@@ -10,7 +10,7 @@
 -  **Top Languages & Tools :** JavaScript, Python, Markdown, Node.js
 -  **Hobbies :** Football & Music :headphones:
 -  **Status :** For Hire (I can code something...^)
--  **Contact Me :** [karincaDev](mailto:shimmyuwu03@gmail.com) / ['xel#7228](https://discord.gg/youtuber)
+-  **Contact Me :** [karincaDev](mailto:shimmyuwu03@gmail.com) / ['xel#7228](https://discord.gg/json)
 
 
 ### Languages and Tools
