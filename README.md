@@ -6,7 +6,7 @@
 
 ### About
 
--  **Learning :** HTML5 :zap: | CSS3 :fire:    
+-  **Learning :** React.js | Vue.js :fire:    
 -  **Top Languages & Tools :** JavaScript, Python, Markdown, Node.js
 -  **Hobbies :** Football & Music :headphones:
 -  **Status :** For Hire (I can code something...^)
